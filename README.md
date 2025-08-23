@@ -2,6 +2,10 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+<b>osTicket (Help Desk Ticketing System)
+  - [osTicket: Prerequisites and Installation](https://github.com/Alessggg/osticket-install)
+  - [osTicket: Post-Installation Configuration](https://github.com/Alessggg/osticket-config)
+
 <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Alessggg/ad-configure)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Alessggg/azure-network-protocols)
